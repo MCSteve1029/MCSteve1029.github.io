@@ -1,3 +1,14 @@
 body {
 	background: #ffb3ff
 }
+
+div {
+	background-color:#c76cc0;
+    border: 5px groove #f183e8;
+	color: #ffb3ff;
+    padding: 2px;
+    margin-top: 25%;
+    margin-left: 50%;
+    position: absolute;
+	outline: groove #f183e8 5px;
+}
