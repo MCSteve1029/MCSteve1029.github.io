@@ -2,13 +2,30 @@ body {
 	background: #ffb3ff
 }
 
-div {
+.group {
+	width: 314px;
+	height: 17px;
+	margin: auto;
+	margin-top: 15%;
+}
+
+.text {
 	background-color:#c76cc0;
     border: 5px groove #f183e8;
 	color: #ffb3ff;
     padding: 2px;
-    margin-top: 25%;
-    margin-left: 50%;
+    width: 41.33px;
+    margin-top: 50%;
+    margin-left: 136.66px;
+    position: static;
+	outline: groove #f183e8 5px;
+}
+
+.img {
+	background-color:#c76cc0;
+    border: 5px groove #f183e8;
+	color: #ffb3ff;
+    padding: 2px;
     position: absolute;
 	outline: groove #f183e8 5px;
 }
